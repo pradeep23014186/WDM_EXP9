@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 15/09/2026
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,13 @@ for this purpose.
 
 
 ### Output:
+```
+Developed By : Pradeep Kumar G
+Register No. : 212223230150
+```
+<img width="1127" height="885" alt="image" src="https://github.com/user-attachments/assets/6d4ea77f-b09d-4c5e-bb62-7d9fe6b52954" />
+<img width="1117" height="882" alt="image" src="https://github.com/user-attachments/assets/19954097-938f-420f-be0c-44b7e41fd7fd" />
+<img width="1397" height="863" alt="image" src="https://github.com/user-attachments/assets/0cf3a417-69a4-4419-ac3f-879b06fdfeb8" />
 
 ### Result:
+Thus, preprocessing techniques have been implemented using RapidMiner Successfully.
